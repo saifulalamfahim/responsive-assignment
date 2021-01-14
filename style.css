@@ -1,0 +1,82 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.bg-change{
+    background-color: blueviolet;
+}
+.nav-item {
+    margin-right: 30px;
+  }
+.navs img {
+    width: 200px;
+  }
+.nav-weight-change{
+    font-weight: 500;
+}
+span{
+    color: white;
+}
+.padding-change-1{
+    padding-left: 100px;
+}
+.padding-change-2{
+    padding-left: 150px;
+}
+h1{
+    font-size: 65px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.h-font-change {
+    color: #363958;
+    font-weight: 600;
+    margin-top: 60px;
+    margin-bottom: 40px;
+  }
+.card-radius {
+    border-radius: 10px;
+  }
+.card-radius img{
+    width: 200px;
+}
+.bg-color-change-1{
+    background-color: blueviolet;
+    color: white;
+}
+.bg-color-change-2{
+    background-color: coral;
+    color: white;
+}
+.bg-color-change-3{
+    background-color: black;
+    color: white;
+}
+
+.card{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.buy-now-button img{
+    width: 20px;
+}
+.m-change {
+    margin-top: 60px !important;
+  }
+  .featuresPic img {
+    width: 400px;
+  }
+  .featureBox img {
+    width: 60px;
+    margin-right: 20px;
+  }
+  .featureBox {
+    box-shadow: 1px 1px 20px lightgrey;
+    padding: 20px;
+    margin: 20px 0px;
+  }
